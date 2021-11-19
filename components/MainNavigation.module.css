@@ -1,0 +1,11 @@
+.mainNavigation {
+  font-family: "rubik", sans-serif;
+}
+
+.a:hover {
+  text-decoration: underline;
+}
+
+.ul {
+  display: inline-block;
+}
